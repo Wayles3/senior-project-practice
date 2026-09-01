@@ -6,7 +6,7 @@ Prints a short profile card for the developer.
 NAME = "Adewale Abodunde"
 MAJOR = "Computer Science"
 TECHNOLOGY_INTEREST = "Artificial Intelligence"
-SKILL_GOAL = "Full-Stack Web Development"
+SKILL_GOAL = "Full-Stack Development"
 
 
 def main():

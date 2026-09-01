@@ -3,47 +3,17 @@
 A practice repository for Senior Project, used to get comfortable with Git,
 GitHub, and branching before the main project work begins.
 
-## Developer Profile
+## Student Developer Profile
 
-`App.py` prints a short profile card:
+**Name:** Adewale Abodunde
 
-- **Name:** Name
-- **Major:** major
-- **Technology Interest:** Tech Interest
-- **Skill Goal:** Skill Goal
+**Major:** Computer Science
 
-## Running it
+**Technology Interest:** Artificial Intelligence
 
-Requires Python 3.
+**Senior Project Skill Goal:** Full-Stack Development
 
-```bash
-python3 App.py
-```
+## Development Workflow
 
-Expected output:
+Branch → Code → Commit → Push → Pull Request → Review → Merge
 
-```
-Senior Project Developer Profile
-
-Name: "name
-Major: "Major"
-Technology Interest: "Tech interest"
-Skill Goal: "Skill goal"
-```
-
-## Repository structure
-
-```
-senior-project-practice/
-├── App.py      # developer profile program
-└── README.md   # this file
-```
-
-## Branching
-
-Work happens on feature branches and is merged into `main` through pull requests.
-
-```bash
-git switch -c feature/<short-description>   # start a new branch
-git push -u origin feature/<short-description>
-```
